@@ -13,13 +13,13 @@ Prequirement:
 * Install packages:
 
     ```bash
-    npm install
+    yarn install
     ```
 
 * Running project:
 
     ```bash
-    npm start
+    yarn start
     ```
 * Open http://your-ip-address:3000 to check it.
 
